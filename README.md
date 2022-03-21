@@ -1,3 +1,3 @@
 #Practise git command
 
-day 1
+day 1 - learn
